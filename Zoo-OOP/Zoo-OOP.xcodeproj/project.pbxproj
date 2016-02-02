@@ -1,0 +1,337 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AFADB76F1BEAC8FE00BC7258 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB76E1BEAC8FE00BC7258 /* main.swift */; };
+		AFADB7771BEAC91600BC7258 /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB7761BEAC91600BC7258 /* Animal.swift */; settings = {ASSET_TAGS = (); }; };
+		AFADB7791BEAC93200BC7258 /* Mammal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB7781BEAC93200BC7258 /* Mammal.swift */; settings = {ASSET_TAGS = (); }; };
+		AFADB77B1BEAC94B00BC7258 /* Bird.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB77A1BEAC94B00BC7258 /* Bird.swift */; settings = {ASSET_TAGS = (); }; };
+		AFADB77D1BEAC95D00BC7258 /* Fish.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB77C1BEAC95D00BC7258 /* Fish.swift */; settings = {ASSET_TAGS = (); }; };
+		AFADB77F1BEAC96E00BC7258 /* Tiger.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB77E1BEAC96E00BC7258 /* Tiger.swift */; settings = {ASSET_TAGS = (); }; };
+		AFADB7831BEAC98800BC7258 /* Elephant.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB7821BEAC98800BC7258 /* Elephant.swift */; settings = {ASSET_TAGS = (); }; };
+		AFADB7851BEAC99B00BC7258 /* Penguin.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB7841BEAC99B00BC7258 /* Penguin.swift */; settings = {ASSET_TAGS = (); }; };
+		AFADB7871BEAC9BA00BC7258 /* Dolphin.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB7861BEAC9BA00BC7258 /* Dolphin.swift */; settings = {ASSET_TAGS = (); }; };
+		AFADB7891BEAC9C800BC7258 /* Shark.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB7881BEAC9C800BC7258 /* Shark.swift */; settings = {ASSET_TAGS = (); }; };
+		AFADB78B1BEAC9DC00BC7258 /* BlueJay.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB78A1BEAC9DC00BC7258 /* BlueJay.swift */; settings = {ASSET_TAGS = (); }; };
+		AFADB78D1BEAC9E700BC7258 /* Piranha.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB78C1BEAC9E700BC7258 /* Piranha.swift */; settings = {ASSET_TAGS = (); }; };
+		AFBA448B1C0CBB6D006CC307 /* Giraffe.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBA448A1C0CBB6D006CC307 /* Giraffe.swift */; settings = {ASSET_TAGS = (); }; };
+		AFBA448D1C0CBC97006CC307 /* Hawk.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBA448C1C0CBC97006CC307 /* Hawk.swift */; settings = {ASSET_TAGS = (); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		AFADB7691BEAC8FE00BC7258 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		AFADB76B1BEAC8FE00BC7258 /* Zoo-OOP */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Zoo-OOP"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AFADB76E1BEAC8FE00BC7258 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		AFADB7761BEAC91600BC7258 /* Animal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Animal.swift; sourceTree = "<group>"; };
+		AFADB7781BEAC93200BC7258 /* Mammal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Mammal.swift; sourceTree = "<group>"; };
+		AFADB77A1BEAC94B00BC7258 /* Bird.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bird.swift; sourceTree = "<group>"; };
+		AFADB77C1BEAC95D00BC7258 /* Fish.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Fish.swift; sourceTree = "<group>"; };
+		AFADB77E1BEAC96E00BC7258 /* Tiger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tiger.swift; sourceTree = "<group>"; };
+		AFADB7821BEAC98800BC7258 /* Elephant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Elephant.swift; sourceTree = "<group>"; };
+		AFADB7841BEAC99B00BC7258 /* Penguin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Penguin.swift; sourceTree = "<group>"; };
+		AFADB7861BEAC9BA00BC7258 /* Dolphin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Dolphin.swift; sourceTree = "<group>"; };
+		AFADB7881BEAC9C800BC7258 /* Shark.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Shark.swift; sourceTree = "<group>"; };
+		AFADB78A1BEAC9DC00BC7258 /* BlueJay.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlueJay.swift; sourceTree = "<group>"; };
+		AFADB78C1BEAC9E700BC7258 /* Piranha.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Piranha.swift; sourceTree = "<group>"; };
+		AFBA448A1C0CBB6D006CC307 /* Giraffe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Giraffe.swift; sourceTree = "<group>"; };
+		AFBA448C1C0CBC97006CC307 /* Hawk.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hawk.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AFADB7681BEAC8FE00BC7258 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AF29A4E21BEAF91700983B07 /* Mammals */ = {
+			isa = PBXGroup;
+			children = (
+				AFADB77E1BEAC96E00BC7258 /* Tiger.swift */,
+				AFBA448A1C0CBB6D006CC307 /* Giraffe.swift */,
+				AFADB7861BEAC9BA00BC7258 /* Dolphin.swift */,
+				AFADB7821BEAC98800BC7258 /* Elephant.swift */,
+			);
+			name = Mammals;
+			sourceTree = "<group>";
+		};
+		AF29A4E31BEAF91F00983B07 /* Birds */ = {
+			isa = PBXGroup;
+			children = (
+				AFBA448C1C0CBC97006CC307 /* Hawk.swift */,
+				AFADB78A1BEAC9DC00BC7258 /* BlueJay.swift */,
+				AFADB7841BEAC99B00BC7258 /* Penguin.swift */,
+			);
+			name = Birds;
+			sourceTree = "<group>";
+		};
+		AF29A4E41BEAF92600983B07 /* Fish */ = {
+			isa = PBXGroup;
+			children = (
+				AFADB7881BEAC9C800BC7258 /* Shark.swift */,
+				AFADB78C1BEAC9E700BC7258 /* Piranha.swift */,
+			);
+			name = Fish;
+			sourceTree = "<group>";
+		};
+		AFADB7621BEAC8FE00BC7258 = {
+			isa = PBXGroup;
+			children = (
+				AFADB76D1BEAC8FE00BC7258 /* Zoo-OOP */,
+				AFADB76C1BEAC8FE00BC7258 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AFADB76C1BEAC8FE00BC7258 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AFADB76B1BEAC8FE00BC7258 /* Zoo-OOP */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AFADB76D1BEAC8FE00BC7258 /* Zoo-OOP */ = {
+			isa = PBXGroup;
+			children = (
+				AFADB7751BEAC90800BC7258 /* Classes */,
+				AFADB76E1BEAC8FE00BC7258 /* main.swift */,
+			);
+			name = "Zoo-OOP";
+			path = "Zoo-OOP";
+			sourceTree = "<group>";
+		};
+		AFADB7751BEAC90800BC7258 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				AFADB7BD1BEACB7E00BC7258 /* Base Classes */,
+				AF29A4E31BEAF91F00983B07 /* Birds */,
+				AF29A4E41BEAF92600983B07 /* Fish */,
+				AF29A4E21BEAF91700983B07 /* Mammals */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		AFADB7BD1BEACB7E00BC7258 /* Base Classes */ = {
+			isa = PBXGroup;
+			children = (
+				AFADB7761BEAC91600BC7258 /* Animal.swift */,
+				AFADB77A1BEAC94B00BC7258 /* Bird.swift */,
+				AFADB77C1BEAC95D00BC7258 /* Fish.swift */,
+				AFADB7781BEAC93200BC7258 /* Mammal.swift */,
+			);
+			name = "Base Classes";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AFADB76A1BEAC8FE00BC7258 /* Zoo-OOP */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AFADB7721BEAC8FE00BC7258 /* Build configuration list for PBXNativeTarget "Zoo-OOP" */;
+			buildPhases = (
+				AFADB7671BEAC8FE00BC7258 /* Sources */,
+				AFADB7681BEAC8FE00BC7258 /* Frameworks */,
+				AFADB7691BEAC8FE00BC7258 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Zoo-OOP";
+			productName = "Zoo-OOP";
+			productReference = AFADB76B1BEAC8FE00BC7258 /* Zoo-OOP */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AFADB7631BEAC8FE00BC7258 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0700;
+				ORGANIZATIONNAME = "Prearo, Andrea";
+				TargetAttributes = {
+					AFADB76A1BEAC8FE00BC7258 = {
+						CreatedOnToolsVersion = 7.0.1;
+					};
+				};
+			};
+			buildConfigurationList = AFADB7661BEAC8FE00BC7258 /* Build configuration list for PBXProject "Zoo-OOP" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = AFADB7621BEAC8FE00BC7258;
+			productRefGroup = AFADB76C1BEAC8FE00BC7258 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AFADB76A1BEAC8FE00BC7258 /* Zoo-OOP */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AFADB7671BEAC8FE00BC7258 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AFBA448D1C0CBC97006CC307 /* Hawk.swift in Sources */,
+				AFADB78B1BEAC9DC00BC7258 /* BlueJay.swift in Sources */,
+				AFADB7831BEAC98800BC7258 /* Elephant.swift in Sources */,
+				AFBA448B1C0CBB6D006CC307 /* Giraffe.swift in Sources */,
+				AFADB77D1BEAC95D00BC7258 /* Fish.swift in Sources */,
+				AFADB7891BEAC9C800BC7258 /* Shark.swift in Sources */,
+				AFADB7871BEAC9BA00BC7258 /* Dolphin.swift in Sources */,
+				AFADB78D1BEAC9E700BC7258 /* Piranha.swift in Sources */,
+				AFADB77F1BEAC96E00BC7258 /* Tiger.swift in Sources */,
+				AFADB7791BEAC93200BC7258 /* Mammal.swift in Sources */,
+				AFADB76F1BEAC8FE00BC7258 /* main.swift in Sources */,
+				AFADB7851BEAC99B00BC7258 /* Penguin.swift in Sources */,
+				AFADB77B1BEAC94B00BC7258 /* Bird.swift in Sources */,
+				AFADB7771BEAC91600BC7258 /* Animal.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		AFADB7701BEAC8FE00BC7258 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		AFADB7711BEAC8FE00BC7258 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		AFADB7731BEAC8FE00BC7258 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "Zoo-OOP";
+			};
+			name = Debug;
+		};
+		AFADB7741BEAC8FE00BC7258 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "Zoo-OOP";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AFADB7661BEAC8FE00BC7258 /* Build configuration list for PBXProject "Zoo-OOP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AFADB7701BEAC8FE00BC7258 /* Debug */,
+				AFADB7711BEAC8FE00BC7258 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AFADB7721BEAC8FE00BC7258 /* Build configuration list for PBXNativeTarget "Zoo-OOP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AFADB7731BEAC8FE00BC7258 /* Debug */,
+				AFADB7741BEAC8FE00BC7258 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AFADB7631BEAC8FE00BC7258 /* Project object */;
+}

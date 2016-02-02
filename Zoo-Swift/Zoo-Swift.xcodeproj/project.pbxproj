@@ -1,0 +1,333 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AF22D13B1BED7C24007C8A58 /* Bird.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF22D13A1BED7C24007C8A58 /* Bird.swift */; settings = {ASSET_TAGS = (); }; };
+		AF22D13D1BED7C2C007C8A58 /* Mammal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF22D13C1BED7C2C007C8A58 /* Mammal.swift */; settings = {ASSET_TAGS = (); }; };
+		AF22D13F1BED7C38007C8A58 /* Fish.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF22D13E1BED7C38007C8A58 /* Fish.swift */; settings = {ASSET_TAGS = (); }; };
+		AF342F661BEC2926009C8D38 /* FlyableExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF342F651BEC2926009C8D38 /* FlyableExtension.swift */; settings = {ASSET_TAGS = (); }; };
+		AF342F6A1BEC2E0B009C8D38 /* RunnableExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF342F691BEC2E0B009C8D38 /* RunnableExtension.swift */; settings = {ASSET_TAGS = (); }; };
+		AF342F6C1BEC2E5B009C8D38 /* SwimmableExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF342F6B1BEC2E5B009C8D38 /* SwimmableExtension.swift */; settings = {ASSET_TAGS = (); }; };
+		AFADB79B1BEACA1000BC7258 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB79A1BEACA1000BC7258 /* main.swift */; };
+		AFADB7A71BEACA8900BC7258 /* Runnable.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB7A61BEACA8900BC7258 /* Runnable.swift */; settings = {ASSET_TAGS = (); }; };
+		AFADB7A91BEACA9200BC7258 /* Flyable.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB7A81BEACA9200BC7258 /* Flyable.swift */; settings = {ASSET_TAGS = (); }; };
+		AFADB7AB1BEACAAC00BC7258 /* Swimmable.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB7AA1BEACAAC00BC7258 /* Swimmable.swift */; settings = {ASSET_TAGS = (); }; };
+		AFADB7B81BEACB1F00BC7258 /* Tiger.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB7B71BEACB1F00BC7258 /* Tiger.swift */; settings = {ASSET_TAGS = (); }; };
+		AFADB7BA1BEACB2600BC7258 /* Elephant.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB7B91BEACB2600BC7258 /* Elephant.swift */; settings = {ASSET_TAGS = (); }; };
+		AFADB7C01BEACCB000BC7258 /* Bluejay.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB7BF1BEACCB000BC7258 /* Bluejay.swift */; settings = {ASSET_TAGS = (); }; };
+		AFADB7C21BEACCE500BC7258 /* Penguin.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB7C11BEACCE500BC7258 /* Penguin.swift */; settings = {ASSET_TAGS = (); }; };
+		AFADB7C41BEACCEB00BC7258 /* Shark.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB7C31BEACCEB00BC7258 /* Shark.swift */; settings = {ASSET_TAGS = (); }; };
+		AFADB7C61BEACD0300BC7258 /* Dolphin.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB7C51BEACD0300BC7258 /* Dolphin.swift */; settings = {ASSET_TAGS = (); }; };
+		AFADB7C81BEACD0E00BC7258 /* Piranha.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFADB7C71BEACD0E00BC7258 /* Piranha.swift */; settings = {ASSET_TAGS = (); }; };
+		AFBA448F1C0CBDE9006CC307 /* Giraffe.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBA448E1C0CBDE9006CC307 /* Giraffe.swift */; settings = {ASSET_TAGS = (); }; };
+		AFBA44911C0CBE17006CC307 /* Hawk.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBA44901C0CBE17006CC307 /* Hawk.swift */; settings = {ASSET_TAGS = (); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		AFADB7951BEACA1000BC7258 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		AF22D13A1BED7C24007C8A58 /* Bird.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bird.swift; sourceTree = "<group>"; };
+		AF22D13C1BED7C2C007C8A58 /* Mammal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Mammal.swift; sourceTree = "<group>"; };
+		AF22D13E1BED7C38007C8A58 /* Fish.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Fish.swift; sourceTree = "<group>"; };
+		AF342F651BEC2926009C8D38 /* FlyableExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlyableExtension.swift; sourceTree = "<group>"; };
+		AF342F691BEC2E0B009C8D38 /* RunnableExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RunnableExtension.swift; sourceTree = "<group>"; };
+		AF342F6B1BEC2E5B009C8D38 /* SwimmableExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwimmableExtension.swift; sourceTree = "<group>"; };
+		AFADB7971BEACA1000BC7258 /* Zoo-Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Zoo-Swift"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AFADB79A1BEACA1000BC7258 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		AFADB7A61BEACA8900BC7258 /* Runnable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Runnable.swift; sourceTree = "<group>"; };
+		AFADB7A81BEACA9200BC7258 /* Flyable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Flyable.swift; sourceTree = "<group>"; };
+		AFADB7AA1BEACAAC00BC7258 /* Swimmable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Swimmable.swift; sourceTree = "<group>"; };
+		AFADB7B71BEACB1F00BC7258 /* Tiger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tiger.swift; sourceTree = "<group>"; };
+		AFADB7B91BEACB2600BC7258 /* Elephant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Elephant.swift; sourceTree = "<group>"; };
+		AFADB7BF1BEACCB000BC7258 /* Bluejay.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bluejay.swift; sourceTree = "<group>"; };
+		AFADB7C11BEACCE500BC7258 /* Penguin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Penguin.swift; sourceTree = "<group>"; };
+		AFADB7C31BEACCEB00BC7258 /* Shark.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Shark.swift; sourceTree = "<group>"; };
+		AFADB7C51BEACD0300BC7258 /* Dolphin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Dolphin.swift; sourceTree = "<group>"; };
+		AFADB7C71BEACD0E00BC7258 /* Piranha.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Piranha.swift; sourceTree = "<group>"; };
+		AFBA448E1C0CBDE9006CC307 /* Giraffe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Giraffe.swift; sourceTree = "<group>"; };
+		AFBA44901C0CBE17006CC307 /* Hawk.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hawk.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AFADB7941BEACA1000BC7258 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AFADB78E1BEACA1000BC7258 = {
+			isa = PBXGroup;
+			children = (
+				AFADB7991BEACA1000BC7258 /* Zoo-Swift */,
+				AFADB7981BEACA1000BC7258 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AFADB7981BEACA1000BC7258 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AFADB7971BEACA1000BC7258 /* Zoo-Swift */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AFADB7991BEACA1000BC7258 /* Zoo-Swift */ = {
+			isa = PBXGroup;
+			children = (
+				AFADB7A11BEACA2100BC7258 /* Protocols */,
+				AFADB7B61BEACB1300BC7258 /* Classes */,
+				AFADB79A1BEACA1000BC7258 /* main.swift */,
+			);
+			name = "Zoo-Swift";
+			path = "Zoo-Swift";
+			sourceTree = "<group>";
+		};
+		AFADB7A11BEACA2100BC7258 /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				AF22D13A1BED7C24007C8A58 /* Bird.swift */,
+				AF22D13E1BED7C38007C8A58 /* Fish.swift */,
+				AFADB7A81BEACA9200BC7258 /* Flyable.swift */,
+				AF342F651BEC2926009C8D38 /* FlyableExtension.swift */,
+				AF22D13C1BED7C2C007C8A58 /* Mammal.swift */,
+				AFADB7A61BEACA8900BC7258 /* Runnable.swift */,
+				AF342F691BEC2E0B009C8D38 /* RunnableExtension.swift */,
+				AFADB7AA1BEACAAC00BC7258 /* Swimmable.swift */,
+				AF342F6B1BEC2E5B009C8D38 /* SwimmableExtension.swift */,
+			);
+			name = Protocols;
+			sourceTree = "<group>";
+		};
+		AFADB7B61BEACB1300BC7258 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				AFADB7B71BEACB1F00BC7258 /* Tiger.swift */,
+				AFBA448E1C0CBDE9006CC307 /* Giraffe.swift */,
+				AFADB7C51BEACD0300BC7258 /* Dolphin.swift */,
+				AFADB7B91BEACB2600BC7258 /* Elephant.swift */,
+				AFBA44901C0CBE17006CC307 /* Hawk.swift */,
+				AFADB7BF1BEACCB000BC7258 /* Bluejay.swift */,
+				AFADB7C11BEACCE500BC7258 /* Penguin.swift */,
+				AFADB7C31BEACCEB00BC7258 /* Shark.swift */,
+				AFADB7C71BEACD0E00BC7258 /* Piranha.swift */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AFADB7961BEACA1000BC7258 /* Zoo-Swift */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AFADB79E1BEACA1000BC7258 /* Build configuration list for PBXNativeTarget "Zoo-Swift" */;
+			buildPhases = (
+				AFADB7931BEACA1000BC7258 /* Sources */,
+				AFADB7941BEACA1000BC7258 /* Frameworks */,
+				AFADB7951BEACA1000BC7258 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Zoo-Swift";
+			productName = "Zoo-Swift";
+			productReference = AFADB7971BEACA1000BC7258 /* Zoo-Swift */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AFADB78F1BEACA1000BC7258 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0700;
+				ORGANIZATIONNAME = "Prearo, Andrea";
+				TargetAttributes = {
+					AFADB7961BEACA1000BC7258 = {
+						CreatedOnToolsVersion = 7.0.1;
+					};
+				};
+			};
+			buildConfigurationList = AFADB7921BEACA1000BC7258 /* Build configuration list for PBXProject "Zoo-Swift" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = AFADB78E1BEACA1000BC7258;
+			productRefGroup = AFADB7981BEACA1000BC7258 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AFADB7961BEACA1000BC7258 /* Zoo-Swift */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AFADB7931BEACA1000BC7258 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AFADB7C21BEACCE500BC7258 /* Penguin.swift in Sources */,
+				AFADB7C41BEACCEB00BC7258 /* Shark.swift in Sources */,
+				AFADB79B1BEACA1000BC7258 /* main.swift in Sources */,
+				AFADB7C61BEACD0300BC7258 /* Dolphin.swift in Sources */,
+				AFADB7C01BEACCB000BC7258 /* Bluejay.swift in Sources */,
+				AF342F6A1BEC2E0B009C8D38 /* RunnableExtension.swift in Sources */,
+				AF22D13B1BED7C24007C8A58 /* Bird.swift in Sources */,
+				AF22D13F1BED7C38007C8A58 /* Fish.swift in Sources */,
+				AFADB7A71BEACA8900BC7258 /* Runnable.swift in Sources */,
+				AFBA44911C0CBE17006CC307 /* Hawk.swift in Sources */,
+				AFADB7C81BEACD0E00BC7258 /* Piranha.swift in Sources */,
+				AFADB7AB1BEACAAC00BC7258 /* Swimmable.swift in Sources */,
+				AF342F6C1BEC2E5B009C8D38 /* SwimmableExtension.swift in Sources */,
+				AFBA448F1C0CBDE9006CC307 /* Giraffe.swift in Sources */,
+				AFADB7A91BEACA9200BC7258 /* Flyable.swift in Sources */,
+				AF22D13D1BED7C2C007C8A58 /* Mammal.swift in Sources */,
+				AF342F661BEC2926009C8D38 /* FlyableExtension.swift in Sources */,
+				AFADB7BA1BEACB2600BC7258 /* Elephant.swift in Sources */,
+				AFADB7B81BEACB1F00BC7258 /* Tiger.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		AFADB79C1BEACA1000BC7258 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		AFADB79D1BEACA1000BC7258 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		AFADB79F1BEACA1000BC7258 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "Zoo-Swift";
+			};
+			name = Debug;
+		};
+		AFADB7A01BEACA1000BC7258 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "Zoo-Swift";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AFADB7921BEACA1000BC7258 /* Build configuration list for PBXProject "Zoo-Swift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AFADB79C1BEACA1000BC7258 /* Debug */,
+				AFADB79D1BEACA1000BC7258 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AFADB79E1BEACA1000BC7258 /* Build configuration list for PBXNativeTarget "Zoo-Swift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AFADB79F1BEACA1000BC7258 /* Debug */,
+				AFADB7A01BEACA1000BC7258 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AFADB78F1BEACA1000BC7258 /* Project object */;
+}
